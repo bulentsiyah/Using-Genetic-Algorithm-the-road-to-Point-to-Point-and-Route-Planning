@@ -1,0 +1,40 @@
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\YolBulma.exe
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\YolBulma.pdb
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\bin\Debug\YolBulma.exe
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\bin\Debug\YolBulma.pdb
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\YolBulma.Form1.resources
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\YolBulma.Properties.Resources.resources
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CD\Program Kodu\obj\x86\Debug\YolBulma.exe
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CD\Program Kodu\obj\x86\Debug\YolBulma.pdb
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CD\Program Kodu\bin\Debug\YolBulma.exe
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CD\Program Kodu\bin\Debug\YolBulma.pdb
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CD\Program Kodu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CD\Program Kodu\obj\x86\Debug\YolBulma.Form1.resources
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CD\Program Kodu\obj\x86\Debug\YolBulma.Properties.Resources.resources
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CD\Program Kodu\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CD\Program Kodu\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CDbb\Program Kodu\obj\x86\Debug\YolBulma.exe
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CDbb\Program Kodu\obj\x86\Debug\YolBulma.pdb
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CDbb\Program Kodu\bin\Debug\YolBulma.exe
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CDbb\Program Kodu\bin\Debug\YolBulma.pdb
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CDbb\Program Kodu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CDbb\Program Kodu\obj\x86\Debug\YolBulma.Form1.resources
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CDbb\Program Kodu\obj\x86\Debug\YolBulma.Properties.Resources.resources
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CDbb\Program Kodu\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\CDbb\Program Kodu\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\p-DERSLER\.. AKADEMİK TAKVİM,DEVAMSIZLIK,KALANDERSLER,GEÇMİŞ DERSLER\Proje\F YAPAY ZEKA proje\Bülent SİYAH 081503030 ( YAPAY ZEKA PROJESİ )\Program Kodu\obj\x86\Debug\YolBulma.exe
+D:\p-DERSLER\.. AKADEMİK TAKVİM,DEVAMSIZLIK,KALANDERSLER,GEÇMİŞ DERSLER\Proje\F YAPAY ZEKA proje\Bülent SİYAH 081503030 ( YAPAY ZEKA PROJESİ )\Program Kodu\obj\x86\Debug\YolBulma.pdb
+D:\p-3-PROGRAMLAMA\zz Yapay Zeka\Bülent SİYAH 081503030 ( YAPAY ZEKA PROJESİ )\Program Kodu\obj\x86\Debug\YolBulma.exe
+D:\p-3-PROGRAMLAMA\zz Yapay Zeka\Bülent SİYAH 081503030 ( YAPAY ZEKA PROJESİ )\Program Kodu\obj\x86\Debug\YolBulma.pdb
+D:\p-Yapay Zeka & Robotik\Genetik Algoritma\zz  ARŞİV\Bülent SİYAH 081503030 ( YAPAY ZEKA PROJESİ )\Program Kodu\obj\x86\Debug\YolBulma.exe
+D:\p-Yapay Zeka & Robotik\Genetik Algoritma\zz  ARŞİV\Bülent SİYAH 081503030 ( YAPAY ZEKA PROJESİ )\Program Kodu\obj\x86\Debug\YolBulma.pdb
+D:\p-Yapay Zeka & Robotik\Genetik Algoritma\zz  ARŞİV\Bülent SİYAH 081503030 ( YAPAY ZEKA PROJESİ )\Program Kodu\bin\Debug\YolBulma.exe
+D:\p-Yapay Zeka & Robotik\Genetik Algoritma\zz  ARŞİV\Bülent SİYAH 081503030 ( YAPAY ZEKA PROJESİ )\Program Kodu\bin\Debug\YolBulma.pdb
+D:\p-Yapay Zeka & Robotik\Genetik Algoritma\zz  ARŞİV\Bülent SİYAH 081503030 ( YAPAY ZEKA PROJESİ )\Program Kodu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\p-Yapay Zeka & Robotik\Genetik Algoritma\zz  ARŞİV\Bülent SİYAH 081503030 ( YAPAY ZEKA PROJESİ )\Program Kodu\obj\x86\Debug\YolBulma.Form1.resources
+D:\p-Yapay Zeka & Robotik\Genetik Algoritma\zz  ARŞİV\Bülent SİYAH 081503030 ( YAPAY ZEKA PROJESİ )\Program Kodu\obj\x86\Debug\YolBulma.Properties.Resources.resources
+D:\p-Yapay Zeka & Robotik\Genetik Algoritma\zz  ARŞİV\Bülent SİYAH 081503030 ( YAPAY ZEKA PROJESİ )\Program Kodu\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\p-Yapay Zeka & Robotik\Genetik Algoritma\zz  ARŞİV\Bülent SİYAH 081503030 ( YAPAY ZEKA PROJESİ )\Program Kodu\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

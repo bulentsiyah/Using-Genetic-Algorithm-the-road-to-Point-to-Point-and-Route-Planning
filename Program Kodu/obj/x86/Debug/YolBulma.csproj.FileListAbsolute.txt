@@ -1,0 +1,20 @@
+C:\Users\Bulent\Documents\Visual Studio 2010\Projects\YolBulma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bulent\Documents\Visual Studio 2010\Projects\YolBulma\obj\x86\Debug\YolBulma.Form1.resources
+C:\Users\Bulent\Documents\Visual Studio 2010\Projects\YolBulma\obj\x86\Debug\YolBulma.Properties.Resources.resources
+C:\Users\Bulent\Documents\Visual Studio 2010\Projects\YolBulma\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Bulent\Documents\Visual Studio 2010\Projects\YolBulma\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Bulent\Documents\Visual Studio 2010\Projects\YolBulma\bin\Debug\YolBulma.exe
+C:\Users\Bulent\Documents\Visual Studio 2010\Projects\YolBulma\bin\Debug\YolBulma.pdb
+C:\Users\Bulent\Documents\Visual Studio 2010\Projects\YolBulma\obj\x86\Debug\YolBulma.exe
+C:\Users\Bulent\Documents\Visual Studio 2010\Projects\YolBulma\obj\x86\Debug\YolBulma.pdb
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\YolBulma.exe
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\YolBulma.pdb
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\bin\Debug\YolBulma.exe
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\bin\Debug\YolBulma.pdb
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\YolBulma.Form1.resources
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\YolBulma.Properties.Resources.resources
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\p-DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\p-DERSLER\.. AKADEMİK TAKVİM,DEVAMSIZLIK,KALANDERSLER,GEÇMİŞ DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\YolBulma.exe
+D:\p-DERSLER\.. AKADEMİK TAKVİM,DEVAMSIZLIK,KALANDERSLER,GEÇMİŞ DERSLER\Proje\F YAPAY ZEKA proje\YolBulma\obj\x86\Debug\YolBulma.pdb
